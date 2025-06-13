@@ -27,7 +27,7 @@ Para isso, foi solicitado que você faça uma abstração de um celular e dispon
 Você precisa criar um sistema em C#, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. Você deve criar suas classes de acordo com o diagrama de classes abaixo:
 
 
-**Classe Smartphone <<abstract>**
+**Classe Smartphone** <<abstract>
 + Numero: string 
 - modelo: string 
 - IMEI: string
@@ -46,6 +46,8 @@ Você precisa criar um sistema em C#, do tipo console, mapeando uma classe abstr
 **Classe Iphone**
 + InstalarAplicativo (string nome)
 
+
+![Screenshot_20250613-171307](https://github.com/user-attachments/assets/e4369031-feea-44ef-ad30-f7f941916275)
 
 
 
